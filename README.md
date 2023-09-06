@@ -1,3 +1,3 @@
 # TailwindCSS
 
-Google Fonts URL : https://fonts.google.com/
+Text Fonts Link URL : https://fonts.google.com/
